@@ -1,2 +1,2 @@
 # IBM-DS-Projects
-Projects created for IBM Data Science Professional Certificate
+Projects created for the IBM Data Science Professional Certificate
